@@ -1,5 +1,5 @@
 # DOGS
-Uma rede social para cachorros. Totalmente funcional, com sistema de login, cadastro, fotos e etc.
+<p>Uma rede social para cachorros. Totalmente funcional, com sistema de login, cadastro, fotos e etc.</p>
 
 <br>
 <h3 align="center">📷 Historia do Projeto</h3>
